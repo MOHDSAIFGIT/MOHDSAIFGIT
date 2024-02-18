@@ -1,55 +1,78 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohd Saif
-=================================================================================================================================
+<h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+<br><br>I'm Mohd Saif</h2>
 
-Web-Developer
--------------
+<h3 align="center">Connect with me!</h3>
 
-Hello, my name is Mohd Saif, and I am a student at GTBIT College. I am an avid learner, and one of my current areas of interest is Data Structures and Algorithms (DSA). I enjoy exploring the intricacies of algorithms, learning about different data structures, and finding optimal solutions to complex problems. 
-
-As a web developer, I am skilled in front-end and back-end web development, and I am always on the lookout for new ways to enhance my skills in this field. I am proficient in programming languages like HTML, CSS, JavaScript, PHP, and Python, and I enjoy working with different web frameworks and libraries. 
-
-One of my strengths is my ability to solve problems. I approach challenges with a systematic and analytical mindset, breaking down complex problems into smaller, more manageable pieces. I enjoy working through tough problems, whether it's debugging a complex code issue or designing an optimal algorithm. 
-
-Apart from my technical skills, I am also an effective communicator and collaborator. I believe that clear communication is essential for the success of any project, and I enjoy working in a team environment to achieve our goals. 
-
-In summary, I am Mohd Saif, a dedicated student at GTBIT College, passionate about DSA, a skilled web developer, and a strong problem-solver with a focus on delivering high-quality results.
-
-* 🌍  I'm based in Delhi
-* 🧠  I'm learning ReactJS
-* ✉️  You can contact me at [mohdsaifb173@gmail.com](mailto:mohdsaifb173@gmail.com)
-* ⚡  Looking for Opportunities
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohdsaif20/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/118Mohd" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="mailto:mohdsaifb173@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  <a href="https://www.instagram.com/__saif.saifi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-### Socials
+- 🔭 I’m currently working on Android Development and Full-Stack Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about Anything that excites me
+- 📫 How to reach me: mohdsaifb173@gmail.com
+- [Click here to see my Resume](https://drive.google.com/file/d/1z78R2rxDZOSAr7KbfR5o1eBUBIcu4A63/view?usp=sharing)
 
-<p align="left"> <a href="https://www.github.com/MOHDSAIFGIT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohd-saif-ms30/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<strong>Languages I use</strong>
 
-### Badges
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
-<b>My GitHub Stats</b>
+<strong>Tools I use</strong>
 
-<a href="http://www.github.com/MOHDSAIFGIT"><img src="https://github-readme-stats.vercel.app/api?username=MOHDSAIFGIT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MOHDSAIFGIT's GitHub stats" /></a>
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 
-<a href="http://www.github.com/MOHDSAIFGIT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHDSAIFGIT&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<strong>Libraries and Frameworks I use</strong>
 
-<!-- <a href="http://www.github.com/MOHDSAIFGIT"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MOHDSAIFGIT&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<a href="https://github.com/MOHDSAIFGIT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDSAIFGIT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+<strong>Platforms I use for coding</strong>
+
+<a href="https://leetcode.com/mrkc2303/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+<a href="https://www.codechef.com/users/mrkc2303" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerrank.com/kanishkchhabra23" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+
+<div style="text-align:center">
+  <div style="width: 100">
+    <img src = "https://stats.quine.sh/mrkc2303/github?theme=dark" alt="mrkc2303's GitHub | Stats" /> <br>
+    <img src = "https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark" alt="mrkc2303's GitHub | Languages Over Time" //> <br>
+  </div>
+  
+  <img src = "https://stats.quine.sh/mrkc2303/topics-over-time?theme=dark" alt="mrkc2303's GitHub | Topics Over Time" /> <br>
+  <img src = "https://stats.quine.sh/mrkc2303/web3?theme=dark" alt="mrkc2303's Web3 | Identity" /> <br>
+<!-- [![mrkc2303's GitHub | Languages Over Time](https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark)](https://quine.sh)
+[![mrkc2303's GitHub | Topics Over Time](https://stats.quine.sh/mrkc2303/topics-over-time?theme=dark)](https://quine.sh)
+[![mrkc2303's Web3 | Identity](https://stats.quine.sh/mrkc2303/web3?theme=dark)](https://quine.sh) -->
+</div>
+  
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303&theme=dracula" /> <br> <br> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkc2303&theme=dracula" /> <br> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+</p>
+
+<strong>Show some :heart: by looking at my some <a href="https://github.com/mrkc2303?tab=repositories">repositories</a></strong>
