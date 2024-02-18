@@ -1,78 +1,30 @@
-<h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
-<br><br>I'm Mohd Saif</h2>
+<h1 align="center">Hi 👋, I'm Mohd Saif</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdsaifgit&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsaifgit" /> </p>
 
-<h3 align="center">Connect with me!</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsaifgit" alt="mohdsaifgit" /></a> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohdsaif20/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/118Mohd" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="mailto:mohdsaifb173@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a>
-  <a href="https://www.instagram.com/__saif.saifi" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p align="left"> <a href="https://twitter.com/118mohd" target="blank"><img src="https://img.shields.io/twitter/follow/118mohd?logo=twitter&style=for-the-badge" alt="118mohd" /></a> </p>
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 💬 Ask me about **Anything that excites me**
+
+- 📫 How to reach me **mohdsaifb173@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/118mohd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="118mohd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohdsaif20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohdsaif20/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__saif.saifi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__saif.saifi/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mohd_saif_leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohd_saif_leetcode/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mohdsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mohdsa" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on Android Development and Full-Stack Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💬 Ask me about Anything that excites me
-- 📫 How to reach me: mohdsaifb173@gmail.com
-- [Click here to see my Resume](https://drive.google.com/file/d/1z78R2rxDZOSAr7KbfR5o1eBUBIcu4A63/view?usp=sharing)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<strong>Languages I use</strong>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdsaifgit&show_icons=true&locale=en&layout=compact" alt="mohdsaifgit" /></p>
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdsaifgit&show_icons=true&locale=en" alt="mohdsaifgit" /></p>
 
-<strong>Tools I use</strong>
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
-
-<strong>Libraries and Frameworks I use</strong>
-
-
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-
-<strong>Platforms I use for coding</strong>
-
-<a href="https://leetcode.com/mrkc2303/" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
-<a href="https://www.codechef.com/users/mrkc2303" target="_blank">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
-<a href="https://www.hackerrank.com/kanishkchhabra23" target="_blank">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-
-<div style="text-align:center">
-  <div style="width: 100">
-    <img src = "https://stats.quine.sh/mrkc2303/github?theme=dark" alt="mrkc2303's GitHub | Stats" /> <br>
-    <img src = "https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark" alt="mrkc2303's GitHub | Languages Over Time" //> <br>
-  </div>
-  
-  <img src = "https://stats.quine.sh/mrkc2303/topics-over-time?theme=dark" alt="mrkc2303's GitHub | Topics Over Time" /> <br>
-  <img src = "https://stats.quine.sh/mrkc2303/web3?theme=dark" alt="mrkc2303's Web3 | Identity" /> <br>
-<!-- [![mrkc2303's GitHub | Languages Over Time](https://stats.quine.sh/mrkc2303/languages-over-time?theme=dark)](https://quine.sh)
-[![mrkc2303's GitHub | Topics Over Time](https://stats.quine.sh/mrkc2303/topics-over-time?theme=dark)](https://quine.sh)
-[![mrkc2303's Web3 | Identity](https://stats.quine.sh/mrkc2303/web3?theme=dark)](https://quine.sh) -->
-</div>
-  
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=mrkc2303&show_icons=true&theme=dracula" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mrkc2303&theme=dracula" /> <br> <br> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrkc2303&theme=dracula" /> <br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkc2303&theme=dracula&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
-</p>
-
-<strong>Show some :heart: by looking at my some <a href="https://github.com/mrkc2303?tab=repositories">repositories</a></strong>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsaifgit&" alt="mohdsaifgit" /></p>
