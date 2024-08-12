@@ -1,5 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about Anything that excites me<br>📫 How to reach me: mohdsaifb173@gmail.com
+<h2>Hi there, fellow &#60coders/&#62  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
+<br><br>I'm Mohd Saif</h2>
+
+<h3 align="center">Connect with me!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohdsaif20/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/118mohd" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="mailto:mohdsaifb173@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a>
+  <a href="https://www.instagram.com/__saif.saifi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on Full-Stack Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💬 Ask me about Anything that excites me
+- 📫 How to reach me: mohdsaifb173@gmail.com
+<!-- - [Click here to see my Resume](https://drive.google.com/file/d/1z78R2rxDZOSAr7KbfR5o1eBUBIcu4A63/view?usp=sharing) -->
+
+<strong>Languages I use</strong>
 
 
 ## 🌐 Socials:
