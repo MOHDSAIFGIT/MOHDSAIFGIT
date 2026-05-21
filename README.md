@@ -1,17 +1,43 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER BANNER                    -->
+<!--                     HEADER SVG — self-contained               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohd%20Saif&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,160 C150,130 300,180 450,155 C600,130 750,175 900,150 L900,200 L0,200 Z" fill="url(#wave1)"/>
+  <path d="M0,175 C200,155 400,185 600,165 C750,150 850,178 900,168 L900,200 L0,200 Z" fill="#a78bfa" opacity="0.15"/>
+  <circle cx="50" cy="30" r="1.5" fill="#a78bfa" opacity="0.8"/>
+  <circle cx="120" cy="60" r="1" fill="#fff" opacity="0.5"/>
+  <circle cx="800" cy="25" r="1.5" fill="#a78bfa" opacity="0.8"/>
+  <circle cx="860" cy="55" r="1" fill="#fff" opacity="0.5"/>
+  <circle cx="750" cy="80" r="2" fill="#a78bfa" opacity="0.4"/>
+  <circle cx="200" cy="90" r="1.5" fill="#fff" opacity="0.3"/>
+  <circle cx="650" cy="40" r="1" fill="#fff" opacity="0.6"/>
+  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="4">MOHD SAIF</text>
+  <text x="450" y="132" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="400" fill="#a78bfa" text-anchor="middle" letter-spacing="2">Software Engineer  &amp;  Full-Stack Developer</text>
+  <rect x="375" y="145" width="150" height="24" rx="12" fill="#a78bfa" opacity="0.2"/>
+  <text x="450" y="161" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#c4b5fd" text-anchor="middle">📍 Delhi, India</text>
+</svg>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E57F7&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+High-Performance+Web+Apps+%F0%9F%9A%80;Full-Stack+Developer+%7C+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;4%2B+Years+of+Crafting+Digital+Experiences;Open+Source+Contributor+%F0%9F%8C%9F;Awwwards-Level+UI+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6E57F7&center=true&vCenter=true&multiline=false&random=false&width=650&lines=Building+High-Performance+Web+Apps+%F0%9F%9A%80;Full-Stack+Developer+%7C+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;4%2B+Years+of+Crafting+Digital+Experiences;Open+Source+Contributor+%F0%9F%8C%9F;Awwwards-Level+UI+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,7 +75,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp;About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 const saif = {
@@ -349,23 +375,64 @@ import { RevealCanvas } from "reactbits-animation";
 
 <div align="center">
 
+<!-- Row 1: Stats + Top Languages -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohdsaifgit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsaifgit&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaifgit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Row 2: Streak Stats -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=mohdsaifgit&theme=tokyonight&hide_border=true&background=0d1117&stroke=6E57F7&ring=6E57F7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6E57F7&sideLabels=6E57F7&dates=8b949e" alt="Streak Stats"/>
+
+<br/><br/>
+
+<!-- Row 3: Profile Summary Card (wide banner) -->
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdsaifgit&theme=tokyonight" alt="Profile Details"/>
+
+<br/><br/>
+
+<!-- Row 4: Summary sub-cards -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohdsaifgit&theme=tokyonight" alt="Repos Per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohdsaifgit&theme=tokyonight" alt="Most Commit Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohdsaifgit&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+
+<br/><br/>
+
+<!-- Row 5: Quine.sh — Languages Over Time -->
+### 📅 Languages Over Time
+[![Languages Over Time](https://stats.quine.sh/mohdsaifgit/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_medium=mohdsaifgit)
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsaifgit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
+<!-- Row 6: Quine.sh — Topics Over Time -->
+### 🧩 Topics Over Time
+[![Topics Over Time](https://stats.quine.sh/mohdsaifgit/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_medium=mohdsaifgit)
 
-<br/>
+<br/><br/>
 
+<!-- Row 7: Trophies -->
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohdsaifgit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohdsaifgit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
+
+<br/>
 
 ### 🔝 Top Contributed Repos
 
 <img src="https://github-contributor-stats.vercel.app/api?username=mohdsaifgit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   ACTIVITY GRAPH                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdsaifgit&bg_color=1a1b27&color=6E57F7&line=6E57F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -415,24 +482,10 @@ import { RevealCanvas } from "reactbits-animation";
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - 📝 [Framework Laptop 2026: The Most Repairable Laptop in the World Just Got Better](https://www.mohdsaif.in/blog/framework-laptop-2026-review)
 - 📝 [How I Built the Arena Global Solutions Website — A Full-Service Digital Agency in Next.js](https://www.mohdsaif.in/blog/building-arena-global-solutions-website-nextjs)
-<!-- BLOG-POST-LIST:END -->
 
 ▶ [View All Articles on Hashnode →](https://mohdsaif.hashnode.dev)
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdsaifgit&bg_color=1a1b27&color=6E57F7&line=6E57F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
 
 ---
 
@@ -444,9 +497,9 @@ import { RevealCanvas } from "reactbits-animation";
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 **📍 Delhi, India &nbsp;|&nbsp; 📧 mohdsaifb173@gmail.com &nbsp;|&nbsp; 🌐 mohdsaif.in**
+
+<br/>
 
 [![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com/mohdsaifb173)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdsaif20/)
@@ -462,16 +515,26 @@ import { RevealCanvas } from "reactbits-animation";
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                                  -->
+<!--                       FOOTER SVG — self-contained             -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,10 300,60 450,35 C600,10 750,55 900,30 L900,100 L0,100 Z" fill="url(#footerbg)"/>
+  <path d="M0,55 C200,30 400,65 600,45 C750,28 850,58 900,48 L900,100 L0,100 Z" fill="#a78bfa" opacity="0.15"/>
+</svg>
 
 **⭐ If you find my work interesting, consider giving my repos a star!**
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=mohdsaifgit&icon=5&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=mohdsaifgit&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 *Built with ❤️ by Mohd Saif · © 2026*
 
